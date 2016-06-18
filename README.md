@@ -32,13 +32,13 @@ phoenix_webdriver:支持最新的Firefox47/chrome50/IE10/IE11/IE Edge版本。IE
 <br>
 上一版本：1.4.7<br>	
 1、修复多个反人类的唯一性约束<br>
-2、phoenix_node:jmeter性能测试增加对body参数的支持
-3、对平台的各模块代码进行了部分重构，重构后的效果是插件可配置
-4、在phoenix_web端增加查看node详细信息的入口
-5、phoenix_interface增加对https地址的支持
-6、phoenix_develop中增加了一个自己写的并发测试工具
-7、抽离出了公共的phoenix_common模块
-8、重构了平台项目组织架构，使导入调试等更方便
+2、phoenix_node:jmeter性能测试增加对body参数的支持<br>
+3、对平台的各模块代码进行了部分重构，重构后的效果是插件可配置<br>
+4、在phoenix_web端增加查看node详细信息的入口<br>
+5、phoenix_interface增加对https地址的支持<br>
+6、phoenix_develop中增加了一个自己写的并发测试工具<br>
+7、抽离出了公共的phoenix_common模块<br>
+8、重构了平台项目组织架构，使导入调试等更方便<br>
 <br>
 系统名称：自动化测试平台<br> 
 系统介绍： <br>
