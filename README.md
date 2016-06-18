@@ -13,7 +13,7 @@
 平台网站：http://www.cewan.la 或 http://www.phoenixframe.org<br>
 搜索：测完啦或phoenixframe会有更多关于平台的示例<br>
 <br>
-最新版本：1.4.8<br>
+最新版本：1.4.8升级内容：<br>
 phoenix_node:优化性能测试时，监控机的CPU及内存数据等的可读性<br>
 phoenix_web:增加了ehcache缓存<br>
 phoenix_web:增加数据库连接池查看<br>
@@ -30,7 +30,7 @@ phoenix_webdriver:selenide更新到最新3.6,selenium更新到2.48稳定版（�
 phoenix_webdriver:支持最新的Firefox47/chrome50/IE10/IE11/IE Edge版本。IE驱动更新到2.53，chrome驱动更新到2.21<br>
 
 <br>
-上一版本：1.4.7<br>	
+上一版本：1.4.7升级内容：<br>	
 1、修复多个反人类的唯一性约束<br>
 2、phoenix_node:jmeter性能测试增加对body参数的支持<br>
 3、对平台的各模块代码进行了部分重构，重构后的效果是插件可配置<br>
